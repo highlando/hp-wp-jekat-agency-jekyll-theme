@@ -7,8 +7,8 @@ date: 2024-12-01
 img: 2412-Ilmenau-Buderus-11KW.jpg
 thumbnail: 2412-Ilmenau-Buderus-11KW.jpg
 alt: image-alt
-project-date: Dezember 2024
-client: Start Bootstrap
-category: Bestand
+# project-date: Dezember 2024
+# client: Start Bootstrap
+# category: Bestand
 description: Eine 11KW Buderus WLW196i f&uuml;r Heizung und Warmwasser als Ersatz f&uuml;r eine Gastherme in einem Zweifamilienhaus. Nur der Energietr&auml;ger wurde ausgetauscht -- die vorhandene Installation (Leitungen und Heizk&ouml;rper) war ausreichend und wurde einfach weiterverwendet.
 ---
