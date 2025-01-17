@@ -10,6 +10,5 @@ alt: aufdach montierte W&auml;rmepumpe
 # project-date: Dezember 2024
 # client: Start Bootstrap
 # category: Bestand
-description: Platzsparende und Nachbarschaftsfreundliche Montage an der
-Giebelwand
+description: Platzsparende und Nachbarschaftsfreundliche Montage an der Giebelwand
 ---
