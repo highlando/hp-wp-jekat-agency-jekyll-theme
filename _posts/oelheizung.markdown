@@ -2,7 +2,7 @@
 title: Alpha Innotec 6KW
 subtitle: Bestandsimmobilie Baujahr 1970
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2024-12-01
 img: oelheizung-collage.jpg
 thumbnail: oelheizung.jpg

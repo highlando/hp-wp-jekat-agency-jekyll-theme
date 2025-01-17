@@ -2,7 +2,7 @@
 title: Alpha Innotec 6KW
 subtitle: Bestandsimmobilie Baujahr 1980
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2024-12-01
 img: aufdach-collage.jpg
 thumbnail: aufdach.jpg
