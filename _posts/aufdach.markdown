@@ -3,7 +3,7 @@ title: Alpha Innotec 6KW
 subtitle: Bestandsimmobilie Baujahr 1980
 layout: default
 modal-id: 3
-date: 2024-12-01
+date: 2024-12-03
 img: aufdach-collage.jpg
 thumbnail: aufdach.jpg
 alt: aufdach montierte W&auml;rmepumpe
@@ -11,4 +11,5 @@ alt: aufdach montierte W&auml;rmepumpe
 # client: Start Bootstrap
 # category: Bestand
 description: Platzsparende und Nachbarschaftsfreundliche Montage an der Giebelwand
+
 ---
