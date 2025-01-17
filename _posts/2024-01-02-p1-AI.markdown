@@ -1,11 +1,11 @@
 ---
-title: Buderus 11KW
-subtitle: Bestandsimmobilie Baujahr 1997
+title: Alpha Innotec 6KW
+subtitle: Bestandsimmobilie Baujahr 1980
 layout: default
 modal-id: 7
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: AI-collage.jpg
+thumbnail: AI.jpg 
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
