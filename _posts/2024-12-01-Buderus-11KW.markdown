@@ -12,3 +12,7 @@ alt: image-alt
 # category: Bestand
 description: Eine 11KW Buderus WLW196i f&uuml;r Heizung und Warmwasser als Ersatz f&uuml;r eine Gastherme in einem Zweifamilienhaus. Nur der Energietr&auml;ger wurde ausgetauscht -- die vorhandene Installation (Leitungen und Heizk&ouml;rper) war ausreichend und wurde einfach weiterverwendet.
 ---
+
+![Vorher -- eine 30 Jahre alte Bennrath Gastherme](vorher.jpeg)
+
+![Nachher -- die Innen-- und Steuereinheit der Buderus](nachher.jpeg)
