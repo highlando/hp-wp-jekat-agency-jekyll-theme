@@ -4,7 +4,7 @@ subtitle: Bestandsimmobilie Baujahr 1997
 layout: default
 modal-id: 6
 date: 2024-12-01
-img: 2412-Ilmenau-Buderus-11KW.jpg
+img: aufdach.jpg
 thumbnail: 2412-Ilmenau-Buderus-11KW.jpg
 alt: image-alt
 # project-date: Dezember 2024
