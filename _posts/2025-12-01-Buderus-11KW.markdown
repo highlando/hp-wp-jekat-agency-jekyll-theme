@@ -2,7 +2,7 @@
 title: Buderus 11KW
 subtitle: Bestandsimmobilie Baujahr 1997
 layout: default
-modal-id: 4
+modal-id: 2
 date: 2025-12-01
 img: 2412-Ilmenau-Buderus-11KW.jpg
 thumbnail: 2412-Ilmenau-Buderus-11KW.jpg
