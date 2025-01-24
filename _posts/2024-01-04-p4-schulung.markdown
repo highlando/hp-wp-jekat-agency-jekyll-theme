@@ -4,8 +4,8 @@ subtitle: new projects
 layout: default
 modal-id: 4
 date: 2024-01-04
-img: schulung-collage.png
-thumbnail: schulung.png
+img: schulung-collage.jpg
+thumbnail: schulung.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
