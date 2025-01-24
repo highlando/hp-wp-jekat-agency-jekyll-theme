@@ -3,7 +3,7 @@ title: coming soon
 subtitle: new projects
 layout: default
 modal-id: 4
-date: 2024-01-03
+date: 2024-01-04
 img: schulung-collage.png
 thumbnail: schulung.png
 alt: image-alt
