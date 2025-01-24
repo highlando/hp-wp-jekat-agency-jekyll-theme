@@ -4,7 +4,7 @@ subtitle: Neubauprojekt mit 16 Wohneinheiten
 layout: default
 modal-id: 5
 date: 2023-07-01
-img: cascade-collage.jpg
+img: cascade-collage.jpeg
 thumbnail: cascade-tn.jpeg
 alt: image-alt
 project-date: April 2014

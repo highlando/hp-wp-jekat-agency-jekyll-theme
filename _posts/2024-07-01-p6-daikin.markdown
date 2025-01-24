@@ -4,7 +4,7 @@ subtitle: Bestand, Baujahr 1980
 layout: default
 modal-id: 6
 date: 2024-07-01
-img: daikin-collage.jpg
+img: daikin-collage.jpeg
 thumbnail: daikin-tn.jpeg
 alt: image-alt
 project-date: April 2014

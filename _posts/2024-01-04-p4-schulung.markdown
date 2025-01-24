@@ -4,7 +4,7 @@ subtitle: mit ACOND
 layout: default
 modal-id: 4
 date: 2024-01-04
-img: schulung-collage.jpg
+img: schulung-collage.jpeg
 thumbnail: schulung-tn.jpeg
 alt: image-alt
 project-date: April 2014

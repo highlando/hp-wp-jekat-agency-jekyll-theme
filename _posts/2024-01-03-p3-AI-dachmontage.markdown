@@ -4,7 +4,7 @@ subtitle: Bestandsimmobilie Baujahr 1985
 layout: default
 modal-id: 3
 date: 2014-07-19
-img: aufdach-collage.jpg
+img: aufdach-collage.jpeg
 thumbnail: aufdach-tn.jpeg
 alt: image-alt
 project-date: April 2014
