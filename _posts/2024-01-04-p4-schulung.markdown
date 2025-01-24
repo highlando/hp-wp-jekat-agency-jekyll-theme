@@ -1,0 +1,15 @@
+---
+title: coming soon
+subtitle: new projects
+layout: default
+modal-id: 4
+date: 2024-01-03
+img: schulung-collage.png
+thumbnail: schulung.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Eine unsere regelm&auml;&szlig;igen Schulungen mit den Herstellern. Welche W&auml;rmepumpen wir empfehlen, entscheiden wir auch nach unseren Erfahrungen mit den Herstellern. Die Technik &auml;ndert sich st&auml;ndig. Hat aber ein Hersteller einen gut ausgestatteten und gut erreichbaren Service, geht die Installation, Inbetriebnahme und Einstellung immer leicht von der Hand.
+
+---
