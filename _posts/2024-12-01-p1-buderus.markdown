@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2024-12-01
 img: buderus-11KW-collage.jpg
-thumbnail: buderus-11KW.jpg
+thumbnail: buderus-11KW-tn.jpeg
 alt: image-alt
 project-date: December 2024
 client: Start Bootstrap

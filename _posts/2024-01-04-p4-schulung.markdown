@@ -1,11 +1,11 @@
 ---
 title: Schulung
-subtitle: mit ACON
+subtitle: mit ACOND
 layout: default
 modal-id: 4
 date: 2024-01-04
 img: schulung-collage.jpg
-thumbnail: schulung.jpg
+thumbnail: schulung-tn.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

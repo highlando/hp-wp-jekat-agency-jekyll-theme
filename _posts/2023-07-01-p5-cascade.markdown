@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2023-07-01
 img: cascade-collage.jpg
-thumbnail: cascade.jpg 
+thumbnail: cascade-tn.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
