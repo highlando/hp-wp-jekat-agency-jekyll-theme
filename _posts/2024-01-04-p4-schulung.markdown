@@ -1,6 +1,6 @@
 ---
-title: coming soon
-subtitle: new projects
+title: Schulung
+subtitle: mit ACON
 layout: default
 modal-id: 4
 date: 2024-01-04

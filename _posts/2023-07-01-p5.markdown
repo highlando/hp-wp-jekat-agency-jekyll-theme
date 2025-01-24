@@ -1,0 +1,15 @@
+---
+title: Kaskadierung von W&auml;rmepumpen
+subtitle: Neubauprojekt mit 16 Wohneinheiten
+layout: default
+modal-id: 5
+date: 2023-07-01
+img: cascade-collage.jpg
+thumbnail: cascade.jpg 
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: F&uuml;r gr&ouml;&szlig;ere Bedarfe k&ouml;nnen W&auml;rmepumpen hintereinander geschaltet werden. Damit werden effizient hohe Vorlauftemperaturen erreicht, die dann &uuml;ber Mischer verteilt werden.
+
+---
