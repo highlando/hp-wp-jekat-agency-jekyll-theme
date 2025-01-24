@@ -1,0 +1,15 @@
+---
+title: Daikin
+subtitle: Bestand, Baujahr 1980
+layout: default
+modal-id: 6
+date: 2024-07-01
+img: daikin-collage.jpg
+thumbnail: daikin.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Modern designte und preisg&uuml;nstige Daikin W&auml;rmepumpe.
+
+---
