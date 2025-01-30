@@ -1,6 +1,6 @@
 ---
-title: Alpha Innotec 4KW
-subtitle: Bestandsimmobilie Baujahr 1985
+title: Alpha Innotec 11KW
+subtitle: Bestandsimmobilie Baujahr 1920 (saniert)
 layout: default
 modal-id: 3
 date: 2014-07-19
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Platzsparender und ger&auml;uscharme Montage an der Giebelwand.
+description: Platzsparende und ger&auml;uscharme Montage an der Giebelwand.
 
 ---
